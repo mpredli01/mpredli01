@@ -1,5 +1,11 @@
 ## Hi there! :wave: My name is Michael Redlich
 
+:arrow_forward: Senior Research Technician, ExxonMobil Technology & Engineering, 1989-present
+:arrow_forward: Lead Editor, Java Queue, InfoQ, 2016-present
+:arrow_forward: Founder & Co-Director, [Garden State Java User Group](https://gsjug.org/), 2001-present
+:arrow_forward: Committer, Jakarta NoSQL Specification
+:arrow_forward: Committer, Jakarta Data Specification
+
 ### Welcome to my GitHub repository...
 
 <!--
