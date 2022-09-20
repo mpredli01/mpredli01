@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! :wave: My name is Michael Redlich
 
 ### Welcome to my GitHub repository...
 
