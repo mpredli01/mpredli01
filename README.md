@@ -5,7 +5,7 @@
 #### :arrow_forward: Founder & Co-Director, [Garden State Java User Group](https://gsjug.org/), 2001-present
 #### :arrow_forward: Committer, [Jakarta NoSQL](https://jakarta.ee/specifications/nosql/) specification
 #### :arrow_forward: Committer, [Jakarta Data](https://jakarta.ee/specifications/data/) Specification
-#### :arrrw_forward: Leadership Council, [Jakarta EE Ambassadors](https://jakartaee-ambassadors.io/), 2018-present
+#### :arrow_forward: Leadership Council, [Jakarta EE Ambassadors](https://jakartaee-ambassadors.io/), 2018-present
 
 ## Welcome to my GitHub repository!
 
