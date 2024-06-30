@@ -3,9 +3,10 @@
 #### :arrow_forward: Java Champion
 #### :arrow_forward: Lead Editor, Java Queue, [InfoQ](https://www.infoq.com/), 2016-present
 #### :arrow_forward: Founder & Co-Director, [Garden State Java User Group](https://gsjug.org/), 2001-present
+#### :arrow_forward: Contract Developer Advocate and Technical Writer, [Payara](https://www.payara.fish/), 2023-present
 #### :arrow_forward: Committer, [Jakarta NoSQL](https://jakarta.ee/specifications/nosql/) specification
 #### :arrow_forward: Committer, [Jakarta Data](https://jakarta.ee/specifications/data/) Specification
-#### :arrow_forward: Leadership Council, [Jakarta EE Ambassadors](https://jakartaee-ambassadors.io/), 2018-present
+#### :arrow_forward: Vice President, [Jakarta EE Ambassadors](https://jakartaee-ambassadors.io/), 2018-present
 #### :arrow_forward: Senior Research Technician (retired), [ExxonMobil Technology & Engineering](https://corporate.exxonmobil.com/), 1989-2023
 
 ## Welcome to my GitHub repository!
